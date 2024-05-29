@@ -1,0 +1,56 @@
+
+form{
+    padding: 15px;
+    margin: 3px;
+    background-color: #5ef308;
+}
+
+#div1{
+    border: 1px solid #0a0c08;
+    width: 500PX;
+    padding: 10px;
+    float: left;
+}
+
+#div2{
+    border: 1px solid #0a0c08;
+    width: 500PX;
+    padding: 10px;
+    float: right;
+}
+
+.div3{
+    text-align: center;
+}
+
+.h2{
+    text-align: center;
+    color: red;
+}
+
+.developpement{
+    float: right;
+}
+
+.cybersecurite{
+    float: right;
+    width: 300px;
+}
+
+.inteligence{
+    float: right;
+}
+
+#h2{
+    color: red;
+    text-align: center;
+}
+
+#body{
+    background-color: rgb(0, 255, 55);
+}
+
+#p2{
+    float: left;
+    width: 300px;
+}

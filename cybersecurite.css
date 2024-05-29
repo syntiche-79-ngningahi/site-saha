@@ -1,0 +1,115 @@
+/* debut configuration de la navbar*/
+
+form{
+    width: 70%;
+    margin: 10px;
+    padding: 10px;
+    background: #edeea3;
+} 
+/* fin de configuration de la navbar */
+
+/* debut configuration de la cybersecute est la pratique........ */
+#vie{
+    text-align: center;
+    color: #0f0ff8;
+
+}
+/* fin configuration de la cybersecute est la pratique....... */
+
+/* debut body */
+#body{
+background-color: #bfc4b9;
+}
+/* fin body  */
+
+/* debut open classroom propose.....  */
+.p{
+    color: #0b0b0c
+}
+/* fin open classroom propose.....  */
+
+/* debut du mot cybersecurite */
+#text-center{
+    border: 2px solid forestgreen;
+    text-align: center;
+    color: #ff5f03;
+}
+/* fin fin du mot cybersecurite */
+
+
+/* debut de configuration du cadre ou il ya le mot aide  */
+.div1{
+    width: 300px;
+    height: 300px;
+    border:5px solid #f1f501;
+    margin: 3px;
+    padding: 10px;
+    background-color: #d31313;
+    text-align: center;
+}
+/* fin de configuration du cadre ou il ya le mot aide  */
+
+/* debut configuration du mot aide  */
+.h2{
+    color: #111fd8;
+    text-align: center;
+
+} 
+/* fin configuration du mot aide  */
+
+/* debut de configuratrion de cisco propose.....  */
+#vue{
+    color: aliceblue;
+text-align: justify;}
+/* fin debut de configuratrion de cisco propose.... */
+
+/* debut configuration de l'image des images */
+ .im{
+float: right;
+width: 350px;
+}
+ /* fin configuration de l'image oip  */
+
+ #cyber{
+    float: left;
+    width: 400px;
+    
+ }
+
+ #img{
+float: inline-end;
+    width: 450px;
+
+}
+#vie{
+    text-align: center;
+}
+
+#jeux{
+    float: left;
+    width: 600px;
+    padding: 1%;
+
+}
+
+#securite{
+    float: right;
+    padding: 7%;
+    width: 600px;
+    margin: 0%;
+    border: 1px solid #0b0b0c;
+}
+
+#cyber4{
+width: 500px;
+}
+
+#cyber5{
+    width: 400px;
+
+}
+
+#cyber6{
+    width: 400px;
+
+}

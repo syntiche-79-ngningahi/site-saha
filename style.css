@@ -1,0 +1,35 @@
+/* configuration du formulaire*/
+body{
+    background-color: rgb(238, 141, 14);
+} 
+
+form {
+    width: 100% ;
+    padding: 30px;
+    border: 1px solid #f1f1f1;
+    background: #fff ;
+    box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.2),0 5px 5px 0 rgba(0, 0, 0, 0.24);
+    } 
+ /*configuration des inputs */
+
+ input[ type=text]{
+    width: 100px;
+    padding: 12px 20px;
+    margin: 8px 0px;
+    display: inline-block;
+    border: 1px solid #0743e9;
+ }
+ input[ type=submit]{
+    background-color: red ;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0px;
+    border: none;
+    cursor:pointer ;
+width: 100% ;
+}
+input[ type=submit ]:hover{
+    background-color:black;
+    color: #53af57;
+    border: 1px solid #53af57;
+}
